@@ -1,0 +1,44 @@
+html{
+    background-color: rgb(245, 224, 224);
+    border: 10px solid black;
+    margin: 10px;
+}
+header{
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(62, 37, 85);
+    font-family: 'Edu SA Beginner', cursive;
+}
+hr{
+    background-color: whitesmoke;
+    height: 20px;
+}
+img{
+    height: 200px;
+    width: 250px;
+}
+#dv1{
+    margin-top: 25px;
+    margin-left: 40px;
+}
+#dv2{
+    margin-left: 930px;
+    margin-top: -260px;
+}
+#dv3{
+    margin-left: 480px;
+}
+#dv4{
+    margin-left: 930px;
+}
+#dv5{
+    margin-left: 40px;
+    margin-top: -260px;
+}
+#dv6{
+    margin-left: 480px;
+}
+.head3{
+    margin-left: 20px;
+    font-family: 'Borel', cursive;
+}
